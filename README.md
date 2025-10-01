@@ -1,8 +1,13 @@
-## Hi there 👋
+# Hi there 👋, I'm Jay Adhav  
 
- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+💻 Fullstack Developer | ⚛️ React.js Enthusiast | 🌐 JavaScript Lover  
+
+## 🙋‍♂️ About Me
+- 🔭 Currently working as a **Fullstack Developer**  
+- 🌱 Learning **Data Structures & Algorithms (DSA)** to level up problem-solving  
+- 👯 Open to collaborate on **React.js, MERN, and Microservices projects**  
+- ⚡ Fun fact: I once debugged a bug for 4 hours, only to realize it was a missing semicolon 😅  
+ 
 
 <!--
 **jayadhav07/jayadhav07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
